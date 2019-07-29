@@ -58,5 +58,11 @@ while name == "":
 	name = input(" Введи свой ник ")
 else:
 	print(" Хорошо ", name, " давай начнём ! ")
-
+	print("")
+	print("")
+	print("")
+	print("")
+	print("")
+	print("")
+	
 input()
